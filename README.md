@@ -4,7 +4,7 @@ This repository hosts the source code and visualization components for the **Imm
 
 ---
 
-## 🧬 Overview
+##  Overview
 
 The **ImmGen Rosetta Browser** provides a unified interface for querying, comparing, and visualizing gene-expression patterns across immune cell lineages.  
 This repository contains the scripts and functions that power its data processing, normalization, and interactive visualization layers.
